@@ -59,7 +59,3 @@ I will be uploading most of the files, and try to keep it as clean as possible. 
 * Thanks to my friend Juan Felipe Becerra Ospina for introducing me to DevOps practices. <br>
 * Thanks to all contributors of the great OpenSource projects that I am using. <br>
 
-
-## Author :musical_keyboard:
-### Santiago Garcia Arango.
-<img src="assets/img/SantiagoImage.jpg" width=30%> <br>
